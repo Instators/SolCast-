@@ -99,7 +99,7 @@ export default function Home() {
           <div className="header-inner">
             <div className="logo">
               <span className="logo-dot" />
-              SolNeutral
+              SolCast
               <span className="logo-tag">Launch Kit</span>
             </div>
             <p className="header-tagline">
